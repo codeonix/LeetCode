@@ -1,3 +1,4 @@
+//Coding Ninja - Get Started With Java 
 //You have given two numbers and you have to add them and print .
 
 //Algorithm :
