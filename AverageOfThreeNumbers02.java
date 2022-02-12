@@ -1,6 +1,6 @@
-//You will have three Numbers and   you have to print average of Three Numbers .
-
-/*
+/*********************************************************************************
+**********************************************************************************
+Problem :You will have three Numbers and   you have to print average of Three Numbers .
 Algorithm :
 01.Take Three Numbers From User .
 02.Find It's Average .
@@ -9,8 +9,8 @@ Algorithm :
 
 
 Time complelexity =O(1) and Space complexity = O(1)
-
-  */
+********************************************************************************
+*******************************************************************************/
 
 
 import java.util.Scanner;
