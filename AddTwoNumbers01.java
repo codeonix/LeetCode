@@ -1,12 +1,17 @@
-//Coding Ninja - Get Started With Java 
-//You have given two numbers and you have to add them and print .
+/*********************************************************************************
+**********************************************************************************
+Coding Ninja - Get Started With Java 
+You have given two numbers and you have to add them and print .
 
-//Algorithm :
- //01.Take Two Numbers From User.
-//01.Add Them and Store Them Into A Variable.
-//01.Use That Variable .
+Algorithm :
+01.Take Two Numbers From User.
+02.Add Them and Store Them Into A Variable.
+03.Use That Variable .
 
-//Time Complexity : O(1) and Space Complexity =O(1).
+Time Complexity : O(1) 
+Space Complexity =O(1)
+***********************************************************************************
+**********************************************************************************/
 
 //solution of above algorithm in java : 
 import java.util.Scanner;
