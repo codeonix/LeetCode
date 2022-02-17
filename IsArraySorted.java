@@ -8,7 +8,7 @@ Algorithm :
 end.
 2.Recusrsive case would be :
         i.split from start  
-             a.if(arr[0] > arr[1]) return false.
+             a.if(arr[start] > arr[start+1]) return false.
              b.return  isArraySorted(arr,start+1);
        ii.Split from end :
              a.if(arr[n-1]<arr [n-2] return false.
