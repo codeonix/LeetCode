@@ -7,7 +7,7 @@ Problem : Write a program to print all the factors of a number other than 1 and 
 Algorithm :
 1.Take a number From User.
 2.Take a loop from 2 to n/2 
-3.if( n % i  ==0 ) print i.
+3.if( n % i  ==0 ) print i .
 
 *****************************************************************************************
 -----------------------------------------------------------------------------------------
