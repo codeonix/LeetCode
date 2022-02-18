@@ -27,6 +27,7 @@ public class SumOfEvenAndOdd{
     n /= 10;
     if(lastDigit %2 == 0)
     sumEven +=lastDigit;
+   else
     sumOdd += lastDigit;
     }
  System.out.print(sumEven + " "+sumOdd);
