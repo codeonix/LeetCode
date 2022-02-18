@@ -1,7 +1,7 @@
 /****************************************************************************************
 ************************************ Multiplication Table *******************************
 
-Problem : Write a program to print multiplication table of n.
+Problem : Write a program to print multiplication table of n with Proper Spacing.
 
 Algorithm :
 1.Take n from user.(1<=n<=99)
