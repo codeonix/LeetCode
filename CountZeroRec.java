@@ -1,5 +1,5 @@
 /*************************************************************************
- * *********************  ###Count Zero Recursively **********************
+ * *********************  ###Count Zero Recursively  **********************
  *************************************************************************
  Problem :Given an integer N, count and return the number of zeros that are 
  present in the given integer using recursion.
