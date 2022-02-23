@@ -20,8 +20,10 @@ public void add(ComplexNumbers c2) {
 }
 
 public void multiply(ComplexNumbers c2) {
-	this.real = this.real * c2.real - this.imaginary * c2.imaginary;
-	this.imaginary = this.real * c2.imaginary + this.imaginary * c2.real;
+	int newReal = this.real * c2.real - this.imaginary * c2.imaginary;
+	int newImaginary= this.real * c2.imaginary + this.imaginary * c2.real;
+        this.real = newReal;
+	this.imaginary = newImaginary;
 }
 public static ComplexNumbers add(ComplexNumbers c1,ComplexNumbers c2) {
 	int newReal = c1.real + c2.real;
