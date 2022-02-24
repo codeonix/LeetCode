@@ -1,6 +1,8 @@
-package inheritance;
+package methodoverriding;
 
-public class Car extends Vehicle {
-  
-   int numDoors;
+class Car extends Vehicle{
+    void print()
+    {
+        System.out.println("car");
+    }
 }

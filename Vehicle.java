@@ -1,14 +1,11 @@
-package inheritance;
+package methodoverriding;
 
-public class Vehicle {
- String color;
- int maxSpeed;
- int price;
- 
- public void print() {
-	 System.out.println("Color is :"+color);
-	 System.out.println("Max speed is :"+maxSpeed );
-	 System.out.println("Price is "+price);
- }
- 
+class Vehicle{
+    String colour;
+    private int number;
+    void print()
+    {
+        System.out.println("vehicle");
+    }
 }
+
